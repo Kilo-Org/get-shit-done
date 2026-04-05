@@ -131,7 +131,7 @@ npx get-shit-done-cc --opencode --global # ~/.config/opencode/ にインスト�
 # Gemini CLI
 npx get-shit-done-cc --gemini --global   # ~/.gemini/ にインストール
 
-# Kilo（OpenCodeフォーク）
+# Kilo Code
 npx get-shit-done-cc --kilo --global     # ~/.config/kilo/ にインストール
 npx get-shit-done-cc --kilo --local      # ./.kilo/ にインストール
 

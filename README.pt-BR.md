@@ -127,7 +127,7 @@ npx get-shit-done-cc --opencode --global
 # Gemini CLI
 npx get-shit-done-cc --gemini --global
 
-# Kilo
+# Kilo Code
 npx get-shit-done-cc --kilo --global
 npx get-shit-done-cc --kilo --local
 
